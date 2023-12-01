@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "skyontatourspl",
+    "skyontatourspl": "skyontatourspl",
+    "skyontaTourspl": "skyontatourspl",
+    "sky": "skyontatourspl"
+  },
+  "targets": {},
+  "etags": {}
+}
